@@ -16,4 +16,4 @@ The global financial system has extensive problems, unnecessary costs and fees, 
 This begs the question, why is our current way of conducting financial transactions so inefficient, and opportunistic for crime and how could we conduct financial transactions that would bypass these inefficiencies while creating more secure transactions?  We propose using blockchain for individual investors to bypass these inefficiencies of the current financial service transactions, creating instant more secure, and anonymous way to make financial investments.
 
 
-![Image3](Images/Image_3.png)
+![Image1](Images/Image_1.png)
